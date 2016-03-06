@@ -1,2 +1,2 @@
-    require('app/prepareAppContainer')();
+ require('app/prepareAppContainer')();
 
