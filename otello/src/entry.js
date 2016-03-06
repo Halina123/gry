@@ -1,4 +1,2 @@
+    require('app/prepareAppContainer')();
 
-var $ = require('jquery');
-
-$('body').append($('<div="app">'));
