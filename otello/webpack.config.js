@@ -2,9 +2,9 @@
  * Created by halina on 06.03.16.
  */
 module.exports = {
-    entry: "./entry.js",
+    entry: "./src/entry.js",
     output: {
-        path: __dirname,
+        path: "./dist",
         filename: "bundle.js"
     },
 };
